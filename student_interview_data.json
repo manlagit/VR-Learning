@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "description": "Semi-structured interview data from subset of students",
+    "sample_size": 25,
+    "interview_duration_range": "15-20 minutes",
+    "data_collection_method": "Audio recordings transcribed to text",
+    "linkage": "Tied to Student_ID for integration with CSV data"
+  },
+  "interviews": [
+    {
+      "Interview_ID": "INT_S001",
+      "Student_ID": "S001",
+      "Interview_Date": "2024-03-15",
+      "Interview_Duration": 18,
+      "Transcript": "The VR was really cool! I liked how I could see the signs in 3D and practice them. Sometimes it was hard to hold the controllers, but the teacher helped me. I think I learned more signs than before. The virtual teacher was nice and patient with me.",
+      "Key_Themes": ["3D visualization", "controller difficulty", "teacher support", "learning improvement", "virtual teacher interaction"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S002",
+      "Student_ID": "S002",
+      "Interview_Date": "2024-03-15",
+      "Interview_Duration": 20,
+      "Transcript": "I loved using the VR headset! It felt like I was in a different world where everyone used sign language. The games were fun and I didn't realize I was learning. My favorite part was the virtual playground where I could practice with other avatars. I want to use it more!",
+      "Key_Themes": ["immersive experience", "gamification", "virtual playground", "avatar interaction", "motivation to continue"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S003",
+      "Student_ID": "S003",
+      "Interview_Date": "2024-03-16",
+      "Interview_Duration": 15,
+      "Transcript": "The VR was okay but sometimes made me feel dizzy. The headset was a bit heavy for me. I liked the colorful signs and the stories, but I needed breaks. The virtual characters were friendly though.",
+      "Key_Themes": ["motion sickness", "headset weight", "visual appeal", "need for breaks", "friendly characters"],
+      "Sentiment_Score": "Neutral"
+    },
+    {
+      "Interview_ID": "INT_S004",
+      "Student_ID": "S004",
+      "Interview_Date": "2024-03-16",
+      "Interview_Duration": 19,
+      "Transcript": "VR sign language learning was amazing! I could see my hands moving and the computer would tell me if I was doing the signs right. The feedback was instant which helped me correct my mistakes quickly. I felt more confident practicing in VR than in front of other people.",
+      "Key_Themes": ["hand tracking", "instant feedback", "mistake correction", "confidence building", "private practice"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S005",
+      "Student_ID": "S005",
+      "Interview_Date": "2024-03-17",
+      "Interview_Duration": 17,
+      "Transcript": "I really enjoyed the VR lessons! The virtual classroom felt real and I could practice with virtual friends. The lessons were like playing games which made learning fun. I learned new signs every day and remembered them better.",
+      "Key_Themes": ["virtual classroom", "peer interaction", "gamified learning", "daily progress", "improved retention"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S010",
+      "Student_ID": "S010",
+      "Interview_Date": "2024-03-17",
+      "Interview_Duration": 16,
+      "Transcript": "The VR experience was good overall. I liked how I could repeat the lessons as many times as I wanted. Sometimes the technology didn't work perfectly and I had to restart, but it was still helpful for learning signs.",
+      "Key_Themes": ["lesson repetition", "self-paced learning", "technical issues", "restart required", "overall helpfulness"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S015",
+      "Student_ID": "S015",
+      "Interview_Date": "2024-03-18",
+      "Interview_Duration": 21,
+      "Transcript": "VR made sign language learning so much better! I could practice in different virtual places like a park, school, and home. Each place had different signs to learn. The 3D signs were clearer than watching videos on a flat screen. I felt like I was really there!",
+      "Key_Themes": ["multiple environments", "contextual learning", "3D clarity", "immersive presence", "environmental variety"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S018",
+      "Student_ID": "S018",
+      "Interview_Date": "2024-03-18",
+      "Interview_Duration": 19,
+      "Transcript": "The VR system was excellent! I could learn at my own pace and the virtual teacher never got impatient with me. The progress tracking showed me how much I improved each week. I especially liked the virtual field trips where we learned signs related to different places.",
+      "Key_Themes": ["self-paced learning", "patient virtual teacher", "progress tracking", "weekly improvement", "virtual field trips"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S021",
+      "Student_ID": "S021",
+      "Interview_Date": "2024-03-19",
+      "Interview_Duration": 14,
+      "Transcript": "The VR was fun but sometimes confusing for me. The headset was big and I needed help putting it on. The signs were pretty but I got tired quickly. I liked the music and sounds in the virtual world.",
+      "Key_Themes": ["confusion", "headset size", "assistance needed", "fatigue", "audio elements"],
+      "Sentiment_Score": "Neutral"
+    },
+    {
+      "Interview_ID": "INT_S025",
+      "Student_ID": "S025",
+      "Interview_Date": "2024-03-19",
+      "Interview_Duration": 18,
+      "Transcript": "Using VR for sign language was really helpful! I could see the signs from different angles which helped me understand them better. The virtual mirror feature let me check if I was doing the signs correctly. I made fewer mistakes after using VR.",
+      "Key_Themes": ["multiple viewing angles", "better understanding", "virtual mirror", "self-checking", "error reduction"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S030",
+      "Student_ID": "S030",
+      "Interview_Date": "2024-03-20",
+      "Interview_Duration": 16,
+      "Transcript": "I enjoyed the VR sign language program! The virtual characters became my friends and they helped me practice conversations. The reward system with stars and badges motivated me to keep learning. I looked forward to each VR session.",
+      "Key_Themes": ["virtual friendships", "conversation practice", "reward system", "motivation", "anticipation"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S035",
+      "Student_ID": "S035",
+      "Interview_Date": "2024-03-20",
+      "Interview_Duration": 22,
+      "Transcript": "The VR experience was outstanding! I could practice sign language in realistic situations like ordering food or asking for directions. The haptic feedback helped me feel when I was making the right hand shapes. This was much better than traditional learning methods.",
+      "Key_Themes": ["realistic situations", "practical applications", "haptic feedback", "hand shape guidance", "superior to traditional methods"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S040",
+      "Student_ID": "S040",
+      "Interview_Date": "2024-03-21",
+      "Interview_Duration": 15,
+      "Transcript": "The VR was okay but hard for me sometimes. The controllers were difficult to use and I dropped them a few times. The virtual world was colorful and interesting though. I needed lots of help from my teacher.",
+      "Key_Themes": ["controller difficulty", "dropping controllers", "visual appeal", "teacher dependence", "assistance required"],
+      "Sentiment_Score": "Neutral"
+    },
+    {
+      "Interview_ID": "INT_S045",
+      "Student_ID": "S045",
+      "Interview_Date": "2024-03-21",
+      "Interview_Duration": 19,
+      "Transcript": "VR sign language learning was fantastic! I could practice with virtual deaf community members and learn about deaf culture too. The storytelling sessions in VR were engaging and taught me signs in context. I felt more connected to the deaf community.",
+      "Key_Themes": ["virtual deaf community", "cultural learning", "storytelling", "contextual learning", "community connection"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S050",
+      "Student_ID": "S050",
+      "Interview_Date": "2024-03-22",
+      "Interview_Duration": 17,
+      "Transcript": "The VR system helped me learn signs better than books or videos. I could practice the same sign over and over until I got it right. The virtual teacher was always encouraging and celebrated my progress. I felt proud of what I learned.",
+      "Key_Themes": ["superior to traditional media", "repetitive practice", "encouraging feedback", "progress celebration", "sense of pride"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S055",
+      "Student_ID": "S055",
+      "Interview_Date": "2024-03-22",
+      "Interview_Duration": 16,
+      "Transcript": "I liked using VR for sign language! The virtual playground had games that taught me new signs while playing. I could invite virtual friends to play with me. Sometimes the headset slipped down but overall it was fun and educational.",
+      "Key_Themes": ["virtual playground", "educational games", "virtual friends", "headset slipping", "fun and educational"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S060",
+      "Student_ID": "S060",
+      "Interview_Date": "2024-03-23",
+      "Interview_Duration": 20,
+      "Transcript": "The VR sign language program was incredible! I could attend virtual deaf events and see how signs are used in real social situations. The AI tutor adapted to my learning speed and gave me personalized lessons. This technology is the future of deaf education!",
+      "Key_Themes": ["virtual deaf events", "social situations", "AI tutor", "personalized learning", "future of education"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S065",
+      "Student_ID": "S065",
+      "Interview_Date": "2024-03-23",
+      "Interview_Duration": 14,
+      "Transcript": "VR was interesting but challenging for me. The headset felt heavy and I got tired wearing it. The signs were clear and colorful which I liked. I needed many breaks during the sessions.",
+      "Key_Themes": ["interesting but challenging", "headset weight", "fatigue", "clear visuals", "frequent breaks"],
+      "Sentiment_Score": "Neutral"
+    },
+    {
+      "Interview_ID": "INT_S070",
+      "Student_ID": "S070",
+      "Interview_Date": "2024-03-24",
+      "Interview_Duration": 18,
+      "Transcript": "The VR experience was great for learning sign language! I could practice in a safe virtual environment without feeling embarrassed about making mistakes. The instant correction feature helped me improve quickly. I gained confidence in my signing abilities.",
+      "Key_Themes": ["safe environment", "no embarrassment", "instant correction", "quick improvement", "confidence building"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S075",
+      "Student_ID": "S075",
+      "Interview_Date": "2024-03-24",
+      "Interview_Duration": 17,
+      "Transcript": "Using VR for sign language was amazing! The virtual reality made learning feel like an adventure. I could explore different virtual worlds while learning signs related to each place. The immersive experience helped me remember signs better.",
+      "Key_Themes": ["adventure-like learning", "virtual world exploration", "location-based signs", "immersive experience", "improved memory"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S080",
+      "Student_ID": "S080",
+      "Interview_Date": "2024-03-25",
+      "Interview_Duration": 16,
+      "Transcript": "I enjoyed the VR sign language lessons! The virtual classroom felt like a real school where I could interact with other students. The collaborative learning activities were fun and helped me practice conversational signing. I made virtual friends who helped me learn.",
+      "Key_Themes": ["virtual classroom", "student interaction", "collaborative learning", "conversational practice", "virtual friendships"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S085",
+      "Student_ID": "S085",
+      "Interview_Date": "2024-03-25",
+      "Interview_Duration": 21,
+      "Transcript": "The VR sign language program exceeded my expectations! The realistic hand tracking allowed me to see exactly how my signs looked. The virtual mentor provided detailed feedback on my hand positions and movements. I learned proper signing technique much faster than traditional methods.",
+      "Key_Themes": ["exceeded expectations", "realistic hand tracking", "detailed feedback", "proper technique", "faster learning"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S090",
+      "Student_ID": "S090",
+      "Interview_Date": "2024-03-26",
+      "Interview_Duration": 15,
+      "Transcript": "The VR was fun but sometimes difficult. The controllers were hard to hold and I needed help. The virtual teacher was nice and patient. I liked the bright colors and animations in the virtual world.",
+      "Key_Themes": ["fun but difficult", "controller challenges", "need for help", "patient teacher", "visual appeal"],
+      "Sentiment_Score": "Neutral"
+    },
+    {
+      "Interview_ID": "INT_S095",
+      "Student_ID": "S095",
+      "Interview_Date": "2024-03-26",
+      "Interview_Duration": 19,
+      "Transcript": "VR sign language learning was wonderful! I could practice signing in different virtual scenarios like at a restaurant, library, or park. Each environment taught me relevant vocabulary. The immersive nature made learning feel natural and enjoyable.",
+      "Key_Themes": ["multiple scenarios", "relevant vocabulary", "environmental learning", "natural feeling", "enjoyable experience"],
+      "Sentiment_Score": "Positive"
+    },
+    {
+      "Interview_ID": "INT_S100",
+      "Student_ID": "S100",
+      "Interview_Date": "2024-03-27",
+      "Interview_Duration": 18,
+      "Transcript": "The VR system was really helpful for my sign language learning! I could see signs from all angles and practice them repeatedly. The virtual coach gave me tips to improve my signing. I felt more confident communicating with other deaf students after using VR.",
+      "Key_Themes": ["multi-angle viewing", "repetitive practice", "virtual coaching", "improvement tips", "increased confidence"],
+      "Sentiment_Score": "Positive"
+    }
+  ]
+}
