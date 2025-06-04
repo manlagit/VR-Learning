@@ -16,6 +16,13 @@ VR-Learning/
 ├── student_interview_data.json         # Qualitative student interview data
 ├── educator_interview_data.json        # Qualitative educator interview data
 ├── data_analysis_script.py             # Comprehensive analysis tool
+├── detailed_data_analysis.py           # 10-step detailed analysis framework
+├── vr_evaluation_report.tex            # Complete LaTeX academic report
+├── references.bib                      # Bibliography for LaTeX report
+├── latex_compilation_guide.md          # LaTeX compilation instructions
+├── analysis_summary_report.md          # Executive summary of findings
+├── vr_evaluation_results.png           # Summary visualization charts
+├── detailed_vr_analysis_results.png    # Comprehensive 12-panel dashboard
 └── .gitattributes                      # Git configuration
 ```
 
@@ -135,6 +142,26 @@ The analysis script generates:
 - Correlation analysis
 - Visualization dashboard (`vr_evaluation_results.png`)
 - Executive summary with recommendations
+
+### Academic Report Generation
+
+**LaTeX Report**: A complete academic report is available in LaTeX format:
+- **File**: `vr_evaluation_report.tex`
+- **Bibliography**: `references.bib` (APA style citations)
+- **Compilation Guide**: `latex_compilation_guide.md`
+
+**Report Features**:
+- Professional academic formatting
+- Comprehensive literature review integration
+- Statistical tables and visualizations
+- Mixed-methods analysis presentation
+- Evidence-based recommendations
+- Complete bibliography with 13+ citations
+
+**To Generate PDF**:
+1. Install LaTeX distribution (MiKTeX, MacTeX, or TeX Live)
+2. Follow instructions in `latex_compilation_guide.md`
+3. Compile using: `pdflatex vr_evaluation_report.tex`
 
 ## Key Features
 
